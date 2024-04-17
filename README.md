@@ -23,7 +23,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [https://github.com/vaguepizza/social-links-profile-main](https://github.com/vaguepizza/social-links-profile-main)
-- Live Site URL: [URL]()
+- Live Site URL: [https://steady-pie-b698b3.netlify.app/](https://steady-pie-b698b3.netlify.app/)
 
 ## My process
 
@@ -37,6 +37,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - CSS Reset
 
 ### What I learned
+
+This project helped me apply a media query to increase the madding on the card to match the desktop design. I also learnt how to match the design more efficiently using the design pictures.
 
 ### Useful resources
 
